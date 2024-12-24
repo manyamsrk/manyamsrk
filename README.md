@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Siva Rama Krishna Manyam
 - 📲I’m interested in Software Development
-- 🎓I’m currently pursuing Master's in Applied Computer Science from Northwest Missouri State University.
+- 💻 Currently working as Full Stack Developer in Verizon
+- 🎓Completed Master's in Applied Computer Science from Northwest Missouri State University.
 - 💻 Worked as a Associate Professional Software Engineer in DXC Technology for 1 year.
 - 📫 Reach me manyam.srk@yahoo.com
 
